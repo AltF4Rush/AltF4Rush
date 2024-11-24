@@ -47,26 +47,6 @@ Got bugs to fix or want to talk games? Find me here:
 
  
 
-Youtube       Twitter              Dev.to       Ko-fi       Patreon
-
-
-
-Hi 👋, I am Gii an enthusiastic and ambitious full stack developer, CPO at Basket Entertainment / Weave, former Product Lead at @PicnicApp and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
-
-🧑 More about me
-🔥 Github Stats
-
- 
-
-📘 My top open source projects
-readme-typing-svg custom-icon-badges
-
-All Repositories
-
-nezuko bot discord community
-total stars followers
-
-🎮 Try pressing the buttons and come back down
 
 
 
