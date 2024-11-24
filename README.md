@@ -42,5 +42,5 @@ This sums up my chaotic developer energy perfectly:
 
 ## 🌐 **Connect With Me!**  
 Got bugs to fix or want to talk games? Find me here:  
-- 📷 [Instagram](https://twitter.com/yourhandle)  
+- 📷 [Instagram](https://www.instagram.com/orta_codes)  
 - 🎮 [Itch.io](https://dani-boii.itch.io/)  
