@@ -65,8 +65,8 @@ Feel free to stalk (I mean, follow) me here:
 
 - **📸 Instagram:** [orta_codes](https://www.instagram.com/orta_codes)  
 - **🎮 Itch.io:** [dani-boii](https://dani-boii.itch.io/)  
-- **🗨️ Discord: **
-orta12 or (1102138779944357949) user id 
+- **🗨️ Discord:**
+orta12 
 ---  
 
 ### ✨ **Want to See More?**  
