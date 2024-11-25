@@ -47,7 +47,7 @@ Here’s a taste of what I create:
 ---
 
 ## 🎶 **BuggyChapri’s Dev Anthem**  
-This GIF sums up my energy as a developer perfectly:  
+HAHAHAHAH GOT YOU 😭🫵:  
 
 <p align="center">  
   <a href="https://www.youtube.com/watch?v=Hrph2EW9VjY" target="_blank">  
