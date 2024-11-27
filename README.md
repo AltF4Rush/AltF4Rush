@@ -19,7 +19,7 @@ Here’s my collection of skills and tools of destruction:
 
 - **🎮 Game Dev:** `{Godot}` – Where my pixelated madness comes alive.  
 - **🌐 Web Dev:** `{Flask}` – For apps that occasionally work... eventually.  
-- **🎨 Design:** `{Bootstrap}` – CSS is my nemesis; I prefer the easy way out.  
+- **🎨 Design:** `{Bootstrap}` – CSS is my nemesis; I prefer the easy way out AKA -`{CHATGTP}`  
 
 ---
 
