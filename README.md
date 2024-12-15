@@ -1,4 +1,4 @@
-# 🐛 **Welcome to BuggyLand!**  
+# 🐛 **Welcome to BuggyLand!**  ![](https://komarev.com/ghpvc/?username=BuggyChapri&color=green)
 
 <p align="center">  
   <img alt="Your favorite bug-chap hero in action" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>  
