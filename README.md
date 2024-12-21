@@ -1,4 +1,4 @@
-# 🐛 **Welcome to BuggyLand!**  ![](https://komarev.com/ghpvc/?username=BuggyChapri&color=green)
+# 🐛 **Welcome to BuggyLand!**  ![](https://komarev.com/ghpvc/?username=BuggyChapri&color=purple)
 
 <p align="center">  
   <img alt="Your favorite bug-chap hero in action" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>  
@@ -6,26 +6,27 @@
 
 ---
 
-## 👾 **Hi, I’m BuggyChapri!**  
-### The Chaos-Bringer of Code & Games  
+## 📏 **Hi, I’m BuggyChapri!**
+### The Chaos-Bringer of Code & Games (retro style, baby!)
 
-> You didn’t ask for these projects, but here they are anyway!  
-> *Games, apps, and enough chaos to break the internet (or your patience).*  
-
----
-
-## 🌟 **Stuff I Break... I Mean, Build**  
-Here’s my collection of skills and tools of destruction:  
-
-- **🎮 Game Dev:** `{Godot}` – Where my pixelated madness comes alive.  
-- **🌐 Web Dev:** `{Flask}` – For apps that occasionally work... eventually.  
-- **🎨 Design:** `{Bootstrap}` – CSS is my nemesis; I prefer the easy way out AKA -`{CHATGTP}`  
+> *Not everything works... but hey, it's the journey, not the compile error, right?*  
 
 ---
 
-## 🎮 **My (Totally Not Boring) Games**  
+## 🌟 **Stuff I Build (or try to)**  
 
-Explore my *boring-but-actually-awesome* games on Itch.io. They’re made with love, bugs, and a sprinkle of chaos:  
+Here’s my (totally rad) toolbox:
+
+- **🎮 Game Dev:** `{Godot}` – where pixels become chaos.
+- **🌐 Web Dev:** `{Flask}` (old version, because why not) & learning `{Django}` – apps that kinda work (sometimes).  
+- **🤖 Machine Learning (soon!):** One bug at a time.
+- **🎨 Design:** `{Bootstrap}` – css is pain, but this makes it less painful (thank u bootstrap).
+
+---
+
+## 🎮 **Games You Didn’t Know You Needed**  
+
+My games on Itch.io – broken, buggy, but with soul:  
 
 <p align="center">  
   <a href="https://dani-boii.itch.io/" target="_blank">  
@@ -33,21 +34,27 @@ Explore my *boring-but-actually-awesome* games on Itch.io. They’re made with l
   </a>  
 </p>  
 
----
-
-## 🤓 **The “Boring” Projects I Made Anyway**  
-Here’s a taste of what I create:  
-
-1. 📝 **Boring Blog** – Just another generic blog with quirky vibes.  
-2. 🌐 **Boring Website** – It’s boring in name, not in design.  
-3. 🕹️ **Boring Game** – Pixel art? Check. Fun? Oh yeah. Bugs? …maybe.  
-
-*More “boring” ideas on the way. Stay tuned!*  
+> Warning: May contain bugs, chaos, and good vibes. 
 
 ---
 
-## 🎶 **BuggyChapri’s Dev Anthem**  
-HAHAHAHAH GOT YOU 😭🫵:  
+## 📂 **Stuff I Made Anyway**  
+
+Some highlights from the land of "eh, it works":
+
+1. 📝 **Boring Blog**: ramblings that occasionally make sense.  
+2. 🌐 **Boring Website**: retro, minimalist, and sometimes functional.  
+3. 🔹️ **Boring Game**: pixel art, chaos, and occasional fun.  
+
+More questionable projects coming soon.
+
+---
+
+## 🎶 **BuggyChapri’s Retro Vibes**  
+
+Right now, vibin’ to **"Stay With Me"** (lo-fi remix, obvs).  
+
+> *"bugs stay w/me longer than my patience" -me, probably.*
 
 <p align="center">  
   <a href="https://www.youtube.com/watch?v=Hrph2EW9VjY" target="_blank">  
@@ -55,19 +62,17 @@ HAHAHAHAH GOT YOU 😭🫵:
   </a>  
 </p>  
 
-> 🎵 *Never gonna give you up, never gonna let you down... unless it’s a bug I can’t fix.* 🐛  
-
 ---
 
 ## 🌐 **Let’s Connect!**  
 
-Feel free to stalk (I mean, follow) me here:  
+Wanna talk? Hit me up here:
 
 - **📸 Instagram:** [orta_codes](https://www.instagram.com/orta_codes)  
 - **🎮 Itch.io:** [dani-boii](https://dani-boii.itch.io/)  
-- **🗨️ Discord:**
-orta12 
----  
+- **🚸️ Discord:** **orta12**  
 
-### ✨ **Want to See More?**  
-Check out my other repositories, projects, or random chaotic experiments! **Remember: chaos is the secret sauce of creativity.**  
+---
+
+### ✨ **More Retro Chaos**  
+Check out my repos, projects, and weird experiments. Remember: bugs are just happy accidents waiting to be featured.
