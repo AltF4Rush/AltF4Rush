@@ -19,4 +19,4 @@
 - **Discord:** orta12
 - Find me lost in Vim... if I can escape. 😆 (Dead meme ik)
 
-[![Anime GIF](https://media.tenor.com/ZqwRTw5ZcIQAAAAM/osaka-azumanga-daioh.gif)]
+![Anime GIF](https://media.tenor.com/ZqwRTw5ZcIQAAAAM/osaka-azumanga-daioh.gif)
